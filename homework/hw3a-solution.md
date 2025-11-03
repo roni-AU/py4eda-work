@@ -50,7 +50,7 @@ $ git log --oneline
 d2fb087 Initial Commit: Add README and .gitignore
 ```
 
-##Questions
+## Questions
 
 ### Reflections
 
