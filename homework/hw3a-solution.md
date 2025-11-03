@@ -36,16 +36,16 @@ My local repository is now connected to GitHub:
 
 ### Details
 Complete this section with details from your setup:
-- Repository URL: `https://github.com/roni-AU/py4eda-work`
+- Repository URL: <https://github.com/roni-AU/py4eda-work>
 - Output of `git remote -v`:
 ```bash
-$ git remote -v`
+$ git remote -v
 origin  https://github.com/roni-AU/py4eda-work.git (fetch)
 origin  https://github.com/roni-AU/py4eda-work.git (push)
 ```
 - The output of `git log --oneline`:
 ```bash
-$ git log --oneline`
+$ git log --oneline
 435e586 (HEAD -> master, origin/master) Add hw3a solution document
 d2fb087 Initial Commit: Add README and .gitignore
 ```
